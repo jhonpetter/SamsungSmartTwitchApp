@@ -3,12 +3,14 @@ See to install https://www.youtube.com/watch?v=2axycQsLPVo
 On error:
 ==============
 In the same application folder hold shift and inside right click folder, choose open powershell here or command prompt here.
+![ContextMenu](https://github.com/jhonpetter/SamsungSmartTwitchApp/blob/master/context-menu.jpg)
 
 Replace ip_tv with your tv_ip, ex: 192.168.1.16:26101
 
 Type " sdb.exe connect ip_tv:26101 " and hit enter.
 
 Type " sdb.exe capability " and hit enter.
+![Result](https://github.com/jhonpetter/SamsungSmartTwitchApp/blob/master/result.jpg)
 
 In the youtube comments paste the result : https://www.youtube.com/watch?v=2axycQsLPVo
 
