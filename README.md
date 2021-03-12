@@ -12,7 +12,7 @@ Type " sdb.exe connect ip_tv:26101 " and hit enter.
 Type " sdb.exe capability " and hit enter.
 ![Result](https://github.com/jhonpetter/SamsungSmartTwitchApp/blob/master/result.jpg)
 
-In the youtube comments paste the result : https://www.youtube.com/watch?v=2axycQsLPVo
+Issue paste the result : https://github.com/jhonpetter/SamsungSmartTwitchApp/issues/new?assignees=&labels=&template=app-error-not-compatible-with-you-tv-.md&title=
 
 Tested:
 ==============
