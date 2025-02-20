@@ -28,9 +28,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    runs:
-        using: 'node20'
-        main: './web/index.html'
     steps:
       - name: Checkout
         uses: actions/checkout@v4
