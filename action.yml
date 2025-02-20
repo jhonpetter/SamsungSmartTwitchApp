@@ -3,7 +3,7 @@ description: 'A GitHub Action to enable Pages, extract various metadata about a 
 author: 'GitHub'
 runs:
   using: 'node20'
-  main: 'dist/index.js'
+  main: 'web/index.html'
 inputs:
   static_site_generator:
     description: 'Optional static site generator to attempt to configure: "nuxt", "next", "gatsby", or "sveltekit"'
