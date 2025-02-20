@@ -15,6 +15,9 @@ title: My website
 # Your name to show in the footer
 author: Some Person
 
+production_url : https://jhonpetter.github.io/SamsungSmartTwitchApp/
+BASE_PATH : https://jhonpetter.github.io/SamsungSmartTwitchApp/
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
