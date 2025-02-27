@@ -1,1 +1,145 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XW23DE5CR3"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
 
+            /*gtag('create', 'G-XW23DE5CR3',{'cookieDomain':'none'});
+            gtag('send','pageview');*/
+
+            gtag('config', 'G-XW23DE5CR3');
+        </script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <script type='text/javascript' src='./js/keys.js'></script>
+        <script type='text/javascript' src='./js/variables.js'></script>
+        <script type='text/javascript' src='./js/hls.min.js'></script>
+        <script type='text/javascript' src='./js/videoPlayer.js'></script>
+        <script type='text/javascript' src='./js/player.js'></script>
+        <script type='text/javascript' src='./js/loader.js'></script>
+        <script type='text/javascript' src='./js/userdata.js'></script>
+        <script type='text/javascript' src='./js/home.js'></script>
+        <script type='text/javascript' src='./js/arquived.js'></script>
+        <script type='text/javascript' src='./js/following.js'></script>
+        <script type='text/javascript' src='./js/search.js'></script>
+        <script type='text/javascript' src='./js/games.js'></script>
+        <script type='text/javascript' src='./js/main.js'></script>
+        <script type='text/javascript' src='./js/settings.js'></script>
+        <link rel="stylesheet" type="text/css" href="./css/login.css"/>
+        <link rel="stylesheet" type="text/css" href="./css/style.css"/>
+        <link rel="stylesheet" type="text/css" href="./css/lives.css"/>
+        <link rel="stylesheet" type="text/css" href="./css/player.css"/>
+        <link rel="stylesheet" type="text/css" href="./css/carousel.css"/>
+        <link rel="stylesheet" type="text/css" href="./css/dir.css"/>
+        <link rel="stylesheet" type="text/css" href="./css/input.css"/>
+        <link rel="stylesheet" type="text/css" href="./css/settings.css"/>
+        <script type='text/javascript'>
+            /*window.onerror = function(){
+			   return true;
+			}  */
+        </script>
+    </head>
+    <body>
+        <div class="users">
+            <div class="imputusers" id="show" required hidden>
+                <div></div>
+                ABCDEFGHIJ<br>
+            </div>
+            <div class="info" id="info" required hidden>Use the code in https://www.twitch.tv/activate?device
+            
+</br>or
+            </br>Scan Qr-Code, this will take you to Twitch activation devices
+            </div>
+<div class="qrcode" id="qrcode" required hidden>
+    <img class="qrcode" id="qrcode" src="" required>
+</div>
+<div class="meio">
+<!-- <div class="nadaver"></div>
+		        <div class="nadaver"></div> -->
+</div>
+</div>
+<div class="input" id="">
+    <input class="put" maxlength="16" value="">
+</div>
+<div class="loader" style="background-color: #6441A4; position: absolute; top: 0; left: 0; width: 1980px; height: 1080px; z-index: 1;">
+    <svg class="progress-ring complete" width="480" height="480">
+        <defs>
+            <clipPath id="circleView">
+                <circle cx="100" cy="100" r="125" fill="#FFFFFF" style="cx: 240; cy: 240; r: 225;" height="480" width="480"></circle>
+            </clipPath>
+        </defs>
+        <image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="img/twitch.png" clip-path="url(#circleView)" x="0" y="0" height="480" width="480"></image>
+        <circle class="progress-ring__circle" stroke="white" stroke-width="" fill="transparent" r="230" cx="240" cy="240" style="stroke-dasharray: 1445.13, 1445.13; stroke-dashoffset: 0;" id="progress-ring__circle"></circle>
+    </svg>
+</div>
+<div class="scene">
+    <img src="./img/donation.png" style="border: none; width: 580px; height: 200px; position: absolute; top: 10px; right: 10px;" title="Lest donations">
+    <div class="carousel">
+        <div id="home" class="carousel__cell" tabindex="-1">
+            <div id="corpo" class="lives">
+                <div class="tudo"></div>
+            </div>
+            <div class="barcarousel">Top 20 lives twitch</div>
+        </div>
+        <div id="liveson" class="carousel__cell" tabindex="-1">
+            <div id="corpo" class="lives">
+                <div class="tudo"></div>
+            </div>
+            <div class="barcarousel">Seguindo ao vivo</div>
+        </div>
+        <div id="following" class="carousel__cell" tabindex="-1">
+            <div id="corpo" class="lives">
+                <div class="tudo"></div>
+                <div class="options" hidden>
+                    <div class="avatar">live</div>
+                    <div class="selected">videos</div>
+                    <div class="unselected">clips</div>
+                    <div class="unselected">unfollow</div>
+                </div>
+                <div class="videodesc" hidden></div>
+                <div class="clipsdesc" hidden></div>
+            </div>
+            <div class="barcarousel">Seguindo todos</div>
+        </div>
+        <div id="search" class="carousel__cell" tabindex="-1">
+            <div id="corpo" class="lives">
+                <div class="tudo"></div>
+                <div class="options" hidden>
+                    <div class="avatar">live</div>
+                    <div class="selected">videos</div>
+                    <div class="unselected">clips</div>
+                    <div class="unselected">unfollow</div>
+                </div>
+                <div class="videodesc" hidden></div>
+                <div class="clipsdesc" hidden></div>
+            </div>
+            <div class="barcarousel">Procurar streamer</div>
+        </div>
+        <div id="searchg" class="carousel__cell" tabindex="-1">
+            <div id="corpo" class="lives">
+                <div class="tudo" hidden></div>
+                <div class="game"></div>
+            </div>
+            <div class="barcarousel">Procurar por jogos</div>
+        </div>
+        <div id="settimgs" class="carousel__cell" tabindex="-1">
+            <div id="corpo" class="lives">
+                <div class="tudo"></div>
+            </div>
+            <div class="barcarousel">Configurações</div>
+        </div>
+    </div>
+</div>
+<video id="av-player" hidden></video>
+<object id="avplayer" type="application/avplayer" hidden></object>
+<div class="video-controls" hidden></div>
+<script type='text/javascript'>
+
+    document.onload = getlocalstorage();
+</script>
+</body></html>
