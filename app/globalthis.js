@@ -73,7 +73,7 @@
          * Allows Exception to be constructed directly
          * with some message and prototype definition.
          */
-        constructor(message = undefined) {
+        constructor(message) {
             super(message);
             this.message = message;
         }
