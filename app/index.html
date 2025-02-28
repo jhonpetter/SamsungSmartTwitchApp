@@ -46,6 +46,39 @@
         <script>
       gtag('event', 'screen_view', {        
         'screen_name': 'Home'
+          'page_title': 'live'
       });
+            window.addEventListener('hashchange', function() {
+
+    var value = window.location.hash;
+
+    switch (value) {
+    case '#Top':
+        ga(value)
+        break;
+    case '#Lives':
+        ga(value)
+        break;
+    case '#Vods':
+        ga(value)
+        break;
+    case '#Clips':
+        ga(value)
+        break;
+    case '#Search':
+        ga(value)
+        break;
+    case '#Games':
+        ga(value)
+        break;
+    }
+});
+function ga(value) {
+    gtag('event', 'screen_view', {
+        'screen_name': value,
+        'page_title': value
+    });
+    //console.log(value);
+}
     </script>
 </body></html>
