@@ -1,1 +1,59 @@
-{"expires":300000,"sections":[{"title":"Top Stream","tiles":{"title":"gaules","subtitle":"G: Counter-Strike, V: 16968","image_ratio":"16by9","image_url":"https://static-cdn.jtvnw.net/previews-ttv/live_user_gaules-440x248.jpg","action_data":"{\"pictureIdx\": 1}","is_playable":false}},{"title":"Live On","tiles":[{"title":"yoda","subtitle":"G: League of Legends, V: 5761","image_ratio":"16by9","image_url":"https://static-cdn.jtvnw.net/previews-ttv/live_user_yoda-440x248.jpg","action_data":"{\"pictureIdx\": 2}","is_playable":false},{"title":"rtparenacs","subtitle":"G: Counter-Strike, V: 1485","image_ratio":"16by9","image_url":"https://static-cdn.jtvnw.net/previews-ttv/live_user_rtparenacs-440x248.jpg","action_data":"{\"pictureIdx\": 3}","is_playable":false},{"title":"minadosom","subtitle":"G: Só Na Conversa, V: 1213","image_ratio":"16by9","image_url":"https://static-cdn.jtvnw.net/previews-ttv/live_user_minadosom-440x248.jpg","action_data":"{\"pictureIdx\": 4}","is_playable":false},{"title":"vda_pedro","subtitle":"G: Tibia, V: 1101","image_ratio":"16by9","image_url":"https://static-cdn.jtvnw.net/previews-ttv/live_user_vda_pedro-440x248.jpg","action_data":"{\"pictureIdx\": 5}","is_playable":false}]}]}
+{
+	"sections" : [
+			{
+				"title" : "Top Stream",
+				"tiles" : [
+						{
+							"title" : "Funny",
+							"subtitle" : "Birthday Party",
+							"image_ratio" : "16by9",
+							"image_url" : "http://developer.samsung.com/onlinedocs/tv/Preview/1.jpg",
+							"action_data" : "{\"videoIdx\": 1}",
+							"is_playable" : true
+						},
+						{
+							"title" : "gaules",
+							"subtitle" : "Game Counter-Strike, Vierws 11924",
+							"image_ratio" : "16by9",
+							"image_url" : "https://static-cdn.jtvnw.net/previews-ttv/live_user_gaules-440x250.jpg",
+							"action_data" : "{\"pictureIdx\": 2}",
+							"is_playable" : false
+						} ]
+			},
+			{
+				"title" : "Live On",
+				"tiles" : [
+						{
+							"title" : "tck10",
+							"subtitle" : "Game Among Us, Vierws 9502",
+							"image_ratio" : "16by9",
+							"image_url" : "https://static-cdn.jtvnw.net/previews-ttv/live_user_tck10-440x250.jpg",
+							"action_data" : "{\"pictureIdx\": 3}",
+							"is_playable" : false
+						},
+						{
+							"title" : "yoda",
+							"subtitle" : "Game League of Legends, Vierws 8114",
+							"image_ratio" : "16by9",
+							"image_url" : "https://static-cdn.jtvnw.net/previews-ttv/live_user_yoda-440x250.jpg",
+							"action_data" : "{\"pictureIdx\": 4}",
+							"is_playable" : false
+						},
+						{
+							"title" : "liminhag0d",
+							"subtitle" : "Game GeoGuessr, Vierws 4237",
+							"image_ratio" : "16by9",
+							"image_url" : "https://static-cdn.jtvnw.net/previews-ttv/live_user_liminhag0d-440x250.jpg",
+							"action_data" : "{\"pictureIdx\": 5}",
+							"is_playable" : false
+						},
+						{
+							"title" : "gabepeixe",
+							"subtitle" : "Game Só Na Conversa, Vierws 2696",
+							"image_ratio" : "16by9",
+							"image_url" : "https://static-cdn.jtvnw.net/previews-ttv/live_user_gabepeixe-440x250.jpg",
+							"action_data" : "{\"pictureIdx\": 6}",
+							"is_playable" : false
+						} ]
+			} ]
+}
