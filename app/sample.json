@@ -5,12 +5,12 @@
       "title": "Top Stream",
       "tiles": [
         {
-          "title": "gaules",
-          "subtitle": "Game Counter-Strike, Vierws 41692",
+          "title": "Funny",
+          "subtitle": "Birthday Party",
           "image_ratio": "16by9",
-          "image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gaules-440x250.jpg",
-          "action_data": "{\"pictureIdx\": 1}",
-          "is_playable": false
+          "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/1.jpg",
+          "action_data": "{\"videoIdx\": 20}",
+          "is_playable": true
         }
       ]
     },
@@ -160,14 +160,6 @@
           "image_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jxness7-440x250.jpg",
           "action_data": "{\"pictureIdx\": 19}",
           "is_playable": false
-        },
-        {
-          "title": "Funny",
-          "subtitle": "Birthday Party",
-          "image_ratio": "16by9",
-          "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/1.jpg",
-          "action_data": "{\"videoIdx\": 20}",
-          "is_playable": true
         }
       ]
     }
