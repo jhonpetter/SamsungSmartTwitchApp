@@ -1,6 +1,7 @@
 See to install https://www.youtube.com/watch?v=2axycQsLPVo
 
-End version 4.5 [Download](https://github.com/jhonpetter/SamsungSmartTwitchApp/releases/tag/4.5)
+End version 4.5 [Download PC](https://github.com/jhonpetter/SamsungSmartTwitchApp/releases/tag/4.5)
+End version 4.5 [Download Android apk](https://github.com/jhonpetter/SamsungSmartTwitchApp/releases/tag/4.5)
 
 New: Auto Login/Token
 ![Print](https://jhonpetter.github.io/SamsungSmartTwitchApp/app/Captura%20de%20tela%202025-03-17%20194838%20(1).jpg)
