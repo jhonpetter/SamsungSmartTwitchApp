@@ -18,7 +18,7 @@ Compatível com sistemas **Samsung Tizen OS (Modelos 2016, 2017 e 2018)**.
 Selecione a versão pronta para o seu dispositivo:
 
 * 🖥️ **Para instalar usando o Computador (Windows PC):** [Baixar Ferramenta PC v4.5](https://github.com/jhonpetter/SamsungSmartTwitchApp/releases/tag/4.5)
-* 📱 **Para instalar usando o Celular (Android):** [Baixar Instalador APK Android](https://github.com/jhonpetter/SamsungSmartTwitchApp/releases/tag/android)
+* 📱 **Para instalar usando o Celular (Android):** [Baixar Instalador APK Android](https://github.com/jhonpetter/SamsungSmartTwitchApp/releases/tag/android-v5)
 
 ---
 
@@ -75,7 +75,7 @@ Compatible with **Samsung Tizen OS (2016, 2017, and 2018 models)**.
 Select the ready-to-use package for your device:
 
 * 🖥️ **To install using a Computer (Windows PC):** [Download PC Tool v4.5](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/jhonpetter/SamsungSmartTwitchApp/releases/tag/4.5)
-* 📱 **To install using a Mobile Phone (Android):** [Download Android APK Installer](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/jhonpetter/SamsungSmartTwitchApp/releases/tag/android)
+* 📱 **To install using a Mobile Phone (Android):** [Download Android APK Installer](https://github.com/jhonpetter/SamsungSmartTwitchApp/releases/tag/android-v5)
 
 ---
 
